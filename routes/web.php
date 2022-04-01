@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/beha', function () {
+Route::get('/ojanjing', function () {
     return view('welcome');
 });
 
